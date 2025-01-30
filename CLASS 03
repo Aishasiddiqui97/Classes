@@ -1,11 +1,11 @@
 connected sir aneeq sir aleem
 
-# name: str = "Sir Aneeq"
-# age: int = 20
+# name: str = "Aisha"
+# age: int = 28
 # is_active: bool = True
 
 # yahan men variable ko override kr rha hn
-# name = "Sir Ameen"
+# name = "Aisha"
 
 # print(name)
 
