@@ -60,24 +60,24 @@ x = range(1,10)  # 1,2,3,4,5
 
 numbers = [1,2,3,4,5]
 #         0   ,   1   ,  2    ,  3
-names1 = ["Ali","Bilal","Hamza","Okasha"]  # list  mutable
+names1 = ["Ali","asad","aisha","moazzam"]  # list  mutable
 #         0   ,   1   ,  2    ,  3
-names2 = ("Ali", "Bilal", "Hamza", "Okasha") # tuple immutable
+names2 = ("Ali", "asad", "aisha", "moazzam") # tuple immutable
 name: str  = "Ali"
-name  = "Bilal"
+name  = "asad"
 
 
 
 #  list
 # print("names1 before over write", names1)
-# #  Bilal    =  "Abdullah"
+# #  asad    =  "Abdullah"
 # names1[1] = "Abdullah"
 # print("names1 after over write", names1)
 
 
 #  tuple
 # print("names1 before over write", names2)
-# #  Bilal    =  "Abdullah"
+# #  asad     =  "Abdullah"
 # names2[1] = "Abdullah"
 # print("names1 after over write", names2)
 
